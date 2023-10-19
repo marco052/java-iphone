@@ -1,18 +1,7 @@
-## Getting Started
+# Projeto: Aparelho Celular Simulado em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é um projeto prático que simula um celular com funcionalidades como ligar e desligar a tela, abrir aplicativos, fazer chamadas, reproduzir músicas e tirar fotos. Implementado em Java, o projeto demonstra habilidades de programação orientada a objetos, incluindo herança e interfaces. É uma exposição das habilidades em Java adquiridas durante o curso na DIO.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Linguagem: Java
+- Funcionalidades: Tela, Aplicativos, Chamadas, Músicas, Fotos
+- Objetivo: Demonstração de habilidades em programação Java
